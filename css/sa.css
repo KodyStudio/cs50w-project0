@@ -276,7 +276,7 @@ body.darkmode {
 
 .info-box .icon i {
   font-size: 30px;
-  color: #f1a7b7;
+  color: #f1a7b7 !important;
 }
 
 .info-box .content {
