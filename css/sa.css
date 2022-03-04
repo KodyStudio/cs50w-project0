@@ -20,7 +20,7 @@ body.darkmode {
 }
 
 * .darkmode-font-color, * .darkmode span, .darkmode * span, * .darkmode i, .darkmode * i, * .darkmode a, .darkmode * a, * .darkmode button, .darkmode * button, * .darkmode #abi, .darkmode * #abi, * .darkmode small, .darkmode * small {
-  color: whitesmoke !important;
+  color: whitesmoke;
 }
 
 .darkmode .navbar-toggler-icon {
